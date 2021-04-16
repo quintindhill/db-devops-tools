@@ -21,7 +21,7 @@
     {
       "changeSet": {
         "id": "1",
-        "author": "YourNameHere",
+        "author": "Quintin Hill",
         "comment": "Add table customers",
         "changes": [
           {

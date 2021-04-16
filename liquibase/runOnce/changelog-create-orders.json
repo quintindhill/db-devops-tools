@@ -21,7 +21,7 @@
     {
       "changeSet": {
         "id": "2",
-        "author": "YourNameHere",
+        "author": "Quintin Hill",
         "comment": "Add table orders",
         "tagDatabase": {
           "tag": "NotTwo"
